@@ -7,8 +7,10 @@
 Android Engineer with 8+ years of experience in developing in android tech ranging from audio, video, graphics and image editing fields. I love to explore new tech in Android and also contribute to Open Source. Currently working for Zalando in Berlin <br> 
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- 8+ years in **Android Development**
+- 2+ years in **React native**.
+- 🎨 Love to sing and paint in my free time
+- 🧘🏽 I do lot of Yoga and Meditation when i am off work.
 
 <br>
 
